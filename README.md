@@ -75,6 +75,10 @@ ancileo-msig/
 │   ├── TravelEasy Policy QTD032212.pdf
 │   └── TravelEasy Pre-Ex Policy QTD032212-PX.pdf
 │
+├── Hackathon_Documentation/           ← API & Additional Resources
+│   ├── Travel Insurance API Documentation.pdf  ← API endpoints & integration guide
+│   └── Scoot_SG_destination_list.xlsx         ← Destination data for quotes
+│
 ├── Payments/                         ← FOR BLOCK 4 (Payments)
 │   ├── docker-compose.yaml           ← Local payment stack (DynamoDB + Stripe webhook)
 │   ├── webhook/                      ← Stripe webhook service
