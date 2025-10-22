@@ -53,7 +53,7 @@ A system with **5 feature blocks** that work together:
 │  Block 4: Purchase In-Chat                                      │
 │  ↓ Accept quote → pay → get policy confirmation               │
 ├─────────────────────────────────────────────────────────────────┤
-│  Block 5: Smart Recommendations from Claims Data               │
+│  Bonus Block: Smart Recommendations from Claims Data               │
 │  ↓ Use historical claims to suggest best coverage              │
 └─────────────────────────────────────────────────────────────────┘
 ```
@@ -310,7 +310,7 @@ python Payments/test_payment_flow.py
 
 ---
 
-### Block 5: Smart Recommendations from Claims Data
+### Bonus Block: Smart Recommendations from Claims Data
 
 **What it does**: Uses MSIG's historical claims data to recommend the best product tier during quotation.
 
@@ -382,7 +382,7 @@ Your submission will be evaluated on:
 - [ ] Status updates visible in conversation and database
 - [ ] Error handling for payment failures
 
-### Block 5: Claims Intelligence
+### Bonus Block: Claims Intelligence
 - [ ] Historical claims analysis integrated
 - [ ] Recommendations with supporting rationale
 - [ ] Evidence-based product tier suggestions
