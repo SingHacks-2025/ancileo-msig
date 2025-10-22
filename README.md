@@ -182,15 +182,6 @@ The `Taxonomy_Hackathon.json` file shows you the **target structure**:
 | **Eligibility** | "Am I covered for pre-existing conditions?" | Rules + text | Clear yes/no with qualifying conditions |
 | **Scenario** | "Skiing accident in Japan—am I covered?" | Multiple benefits/exclusions | Step-by-step coverage analysis |
 
-
-**Prompts**:
-- Templates for generating comparison summaries
-- Templates for natural-language explanations with citations
-
-**Memory System**:
-- **Session memory**: Keep extracted data, preferences, quote parameters within one conversation
-- **Long-term memory**: Remember user across sessions for personalization
-
 **Deliverables**:
 - [ ] Working MCP tools for comparison and FAQ
 - [ ] All answers include citations to original policy text
