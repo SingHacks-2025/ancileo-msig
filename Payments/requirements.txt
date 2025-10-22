@@ -1,0 +1,5 @@
+boto3
+requests
+stripe
+python-dotenv
+

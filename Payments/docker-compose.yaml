@@ -1,0 +1,94 @@
+services:
+  dynamodb-hackathon:
+    image: amazon/dynamodb-local:2.5.2
+    container_name: dynamodb-local-hackathon
+    user: "0:0"
+    command: ["-jar", "DynamoDBLocal.jar", "-sharedDb", "-dbPath", "/home/dynamodblocal/data"]
+    ports:
+      - "8000:8000"
+    volumes:
+      - dynamodb_data-hackathon:/home/dynamodblocal/data
+    healthcheck:
+      test: ["CMD-SHELL", "timeout 2 bash -c '</dev/tcp/localhost/8000' || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
+    restart: unless-stopped
+
+  dynamodb-admin-hackathon:
+    image: aaronshaf/dynamodb-admin
+    container_name: dynamodb-admin-hackathon
+    environment:
+      - DYNAMO_ENDPOINT=http://dynamodb-hackathon:8000
+      - AWS_REGION=${AWS_REGION:-ap-southeast-1}
+      - AWS_ACCESS_KEY_ID=dummy
+      - AWS_SECRET_ACCESS_KEY=dummy
+    depends_on:
+      dynamodb-hackathon:
+        condition: service_healthy
+    ports:
+      - "8010:8001"
+    restart: unless-stopped
+
+  dynamodb-init-hackathon:
+    build:
+      context: .
+      dockerfile: scripts/Dockerfile.init
+    container_name: dynamodb-init-hackathon
+    environment:
+      - AWS_REGION=${AWS_REGION:-ap-southeast-1}
+      - DDB_ENDPOINT=http://dynamodb-hackathon:8000
+      - DYNAMODB_PAYMENTS_TABLE=${DYNAMODB_PAYMENTS_TABLE:-lea-payments-local}
+    depends_on:
+      dynamodb-hackathon:
+        condition: service_healthy
+    restart: "no"
+
+  stripe-webhook-hackathon:
+    build:
+      context: .
+      dockerfile: webhook/Dockerfile
+    container_name: stripe-webhook-hackathon
+    environment:
+      - AWS_REGION=${AWS_REGION:-ap-southeast-1}
+      - AWS_ACCESS_KEY_ID=${AWS_ACCESS_KEY_ID:-dummy}
+      - AWS_SECRET_ACCESS_KEY=${AWS_SECRET_ACCESS_KEY:-dummy}
+      - DYNAMODB_PAYMENTS_TABLE=${DYNAMODB_PAYMENTS_TABLE:-lea-payments-local}
+      - DDB_ENDPOINT=http://dynamodb-hackathon:8000
+      - STRIPE_WEBHOOK_SECRET=${STRIPE_WEBHOOK_SECRET}
+    depends_on:
+      dynamodb-hackathon:
+        condition: service_healthy
+      dynamodb-init-hackathon:
+        condition: service_completed_successfully
+    ports:
+      - "8086:8085"
+    healthcheck:
+      test: ["CMD", "sh", "-lc", "curl -sf --max-time 3 http://localhost:8085/health > /dev/null"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
+    restart: unless-stopped
+
+  payment-pages-hackathon:
+    build:
+      context: .
+      dockerfile: payment_pages/Dockerfile
+    container_name: payment-pages-hackathon
+    environment:
+      - PORT=8085
+    ports:
+      - "8085:8085"
+    healthcheck:
+      test: ["CMD", "sh", "-lc", "curl -sf --max-time 3 http://localhost:8085/health > /dev/null"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
+    restart: unless-stopped
+
+volumes:
+  dynamodb_data-hackathon:
+
