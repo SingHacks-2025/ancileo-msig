@@ -284,8 +284,8 @@ session = stripe.checkout.Session.create(
 
 ```bash
 # Interactive test that walks you through the entire flow
-pip install -r Hackathon/requirements.txt
-python Hackathon/test_payment_flow.py
+pip install -r Payments/requirements.txt
+python Payments/test_payment_flow.py
 
 # It will:
 # 1. Create a test payment record
@@ -386,30 +386,6 @@ Your submission will be evaluated on:
 - [ ] Historical claims analysis integrated
 - [ ] Recommendations with supporting rationale
 - [ ] Evidence-based product tier suggestions
-
----
-
-## 🎤 Presentation Format
-
-**Total**: 10 minutes
-
-**Live Demo** (5 minutes):
-- Show the complete flow using using the policy wordings
-- Demonstrate policy comparison with citations
-- Execute purchase end-to-end
-- Highlight your innovation (unique features, creative approaches)
-
-**Slides** (5 minutes):
-- Architecture overview
-- Normalization approach and taxonomy design
-- MCP integration details
-- Business impact and scalability
-
-**What Judges Want to See**:
-- Working code, not just mockups
-- Accuracy and traceability (citations!)
-- Handling of edge cases and errors
-- Clear path from hackathon demo to production system
 
 ---
 
