@@ -1,0 +1,5485 @@
+{
+  "taxonomy_name": "Travel InsuranceProduct Taxonomy",
+  "products": [
+    "Product A",
+    "Product B",
+    "Product C"
+  ],
+  "layers": {
+    "layer_1_general_conditions": [
+      {
+        "condition": "trip_start_singapore",
+        "condition_type": "eligibility",
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "age_eligibility",
+        "condition_type": "eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "good_health",
+        "condition_type": "eligibility",
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "child_accompaniment_requirement",
+        "condition_type": "eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "pre_existing_conditions",
+        "condition_type": "exclusion",
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "travel_advisory_exclusion",
+        "condition_type": "exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "awareness_of_circumstances",
+        "condition_type": "eligibility",
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "pre_trip_purchased",
+        "condition_type": "eligibility",
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "declaration_of_previous_insurance",
+        "condition_type": "eligibility",
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "medical_advice_and_treatment_restriction",
+        "condition_type": "eligibility",
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "purchase_before_departure",
+        "condition_type": "eligibility",
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "prudence_and_precaution_requirement",
+        "condition_type": "eligibility",
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "medical_fitness_and_cancellation_awareness",
+        "condition_type": "eligibility",
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "pre_ex_critical_care_eligibility",
+        "condition_type": "eligibility",
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "vaccination_and_medication_requirement",
+        "condition_type": "exclusion",
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "selfharm_exclusion",
+        "condition_type": "exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "illegal_or_wilful_act_exclusion",
+        "condition_type": "exclusion",
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "drug_and_alcohol_exclusion",
+        "condition_type": "exclusion",
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "malicious_unlawful_acts",
+        "condition_type": "exclusion",
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "against_doctor_advice",
+        "condition_type": "exclusion",
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "pregnancy_related_conditions",
+        "condition_type": "exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "medical_treatment_exclusion",
+        "condition_type": "exclusion",
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "HIV_AIDS_conditions",
+        "condition_type": "exclusion",
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "mental_health_exclusions",
+        "condition_type": "exclusion",
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "exploratory_tests_exclusion",
+        "condition_type": "exclusion",
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "cosmetic_exclusion",
+        "condition_type": "exclusion",
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "dental_treatment_exclusion",
+        "condition_type": "exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "non_hospital_treatment",
+        "condition_type": "exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "non_doctor_recommended_treatment",
+        "condition_type": "exclusion",
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "aerial_activity_exclusion",
+        "condition_type": "exclusion",
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "professional_sports_exclusion",
+        "condition_type": "exclusion",
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "dangerous_activities_exclusion",
+        "condition_type": "exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "mountaineering_exclusion",
+        "condition_type": "exclusion",
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "high_altitude_exclusion",
+        "condition_type": "exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "underwater_activities_exclusion",
+        "condition_type": "exclusion",
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "water_sports_exclusion",
+        "condition_type": "exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "racing_activities",
+        "condition_type": "exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "excluded_areas",
+        "condition_type": "exclusion",
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "excluded_travel_destinations",
+        "condition_type": "exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "consequential_loss_exclusion",
+        "condition_type": "exclusion",
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "excluded_occupations",
+        "condition_type": "exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "work_at_heights_exclusion",
+        "condition_type": "exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "hazardous_work_exclusion",
+        "condition_type": "exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "military_occupational_exclusion",
+        "condition_type": "exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "covid_and_pandemic_exclusions",
+        "condition_type": "exclusion",
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "war_and_terrorism_exclusion",
+        "condition_type": "exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "radioactive_and_weapon_exclusion",
+        "condition_type": "exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "political_risks_exclusion",
+        "condition_type": "exclusion",
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "cyber_exclusion",
+        "condition_type": "exclusion",
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "condition": "property_cyber_data_exclusion",
+        "condition_type": "exclusion",
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      }
+    ],
+    "layer_2_benefits": [
+      {
+        "benefit_name": "accidental_death_permanent_disablement",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "public_transport_double_cover",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "funeral_expenses_accidental_death",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "child_education_grant",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        },
+        "Product B": {
+          "condition_exist": "boolean",
+          "parameters": {}
+        },
+        "Product C": {
+          "condition_exist": "boolean",
+          "parameters": {}
+        }
+      },
+      {
+        "benefit_name": "family_assistance",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "overseas_medical_expenses",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        },
+        "Product B": {
+          "condition_exist": "boolean",
+          "parameters": {}
+        },
+        "Product C": {
+          "condition_exist": "boolean",
+          "parameters": {}
+        }
+      },
+      {
+        "benefit_name": "emergency_dental_expenses_accident",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "medical_expenses_in_singapore",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        },
+        "Product B": {
+          "condition_exist": "boolean",
+          "parameters": {}
+        },
+        "Product C": {
+          "condition_exist": "boolean",
+          "parameters": {}
+        }
+      },
+      {
+        "benefit_name": "mobility_aid",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "TCM_expenses",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "maternity_overseas_medical_expenses",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "overseas_hospitalisation",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "overseas_ICU_hospitalisation",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "hospitalisation_in_singapore",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "medical_travel_assistance",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "emergency_medical_evacuation_repatriation",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "mortal_remains_repatriation",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "compassionate_visit",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "emergency_telephone_charges",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "child_guard",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "travel_agency_insolvency",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "trip_cancellation",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "trip_postponement",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "traveller_replacement",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "trip_curtailment",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "trip_disruption",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "travel_delay",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "flight_diversion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "overbooked_flight",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "travel_misconnection",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "trip_shortened",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "loss_of_frequent_flyer_points",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "auto_coverage_extension",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "delayed_baggage",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "loss_damage_personal_belongings",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "loss_damage_wedding_clothing",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "loss_of_travel_documents",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "personal_money",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "fraudulent_use_of_credit_card",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "credit_card_outstanding_balance",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "personal_liability",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "hijacking",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "terrorism",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "legal_expenses_for_wrongful_arrest",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "adventurous_activities",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "golfer",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "unused_entertainment_ticket",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "rental_vehicle_excess",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "returning_rental_vehicle",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "home_contents",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "domestic_pets_care",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "passive_war",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "kidnap_and_hostage",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "pre-ex_critical_care",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "24hours_emergency_medical_assistance",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "24hours_travel_assistance",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "overseas_medical_expenses_covid_19",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "trip_cancellation_covid_19",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "trip_curtailment_covid_19",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "overseas_hospitalisation_allowance_covid_19",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "overseas_quarantine_allowance_covid_19",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "parameters": {}
+          }
+        }
+      }
+
+
+    ],
+    "layer_3_benefit_specific_conditions": [
+      {
+        "benefit_name": "accidental_death_permanent_disablement",
+        "condition": "injury_time_limit_for_compensation",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        },
+        "Product B": {
+          "condition_exist": "boolean",
+          "original_text": "",
+          "parameters": {}
+        },
+        "Product C": {
+          "condition_exist": "boolean",
+          "original_text": "",
+          "parameters": {}
+        }
+      },
+      {
+        "benefit_name": "accidental_death_permanent_disablement",
+        "condition": "loss_by_illness",
+        "condition_type": "benefit_exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "public_transport_double_cover",
+        "condition": "injury_onboard_public_transport",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "funeral_expenses_accidental_death",
+        "condition": "death_due_to_injury_during_trip",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "child_education_grant",
+        "condition": "injury_during_journey_within_time_limit",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "family_assistance",
+        "condition": "injury_during_journey_within_time_limit",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "overseas_medical_expenses",
+        "condition": "overseas_medical_necessity_requirement",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "overseas_medical_expenses",
+        "condition": "medical_outside_singapore",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },{
+        "benefit_name": "overseas_medical_expenses",
+        "condition": "medical_expenses_incurred_within_time_limit",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "overseas_medical_expenses",
+        "condition": "excluded_treatments",
+        "condition_type": "benefit_exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "overseas_medical_expenses",
+        "condition": "pre_trip_medical_requirement",
+        "condition_type": "benefit_exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "overseas_medical_expenses",
+        "condition": "against_travel_advisory",
+        "condition_type": "benefit_exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "emergency_dental_expenses_accident",
+        "condition": "dental_treatment_for_injury_during_journey",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "emergency_dental_expenses_accident",
+        "condition": "dental_treatment_for_injury_during_journey",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "emergency_dental_expenses_accident",
+        "condition": "dental_treatment_upon_return",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "emergency_dental_expenses_accident",
+        "condition": "first_dental_treatment_within_time_limit",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "emergency_dental_expenses_accident",
+        "condition": "dental_treatment_by_non_licensed_dentist",
+        "condition_type": "benefit_exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "emergency_dental_expenses_accident",
+        "condition": "expenses_caused_by_illness_or_disease",
+        "condition_type": "benefit_exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "medical_expenses_in_singapore",
+        "condition": "follow_up_medical_treatment_within_time_limit",
+        "condition_type": "benefit_exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "medical_expenses_in_singapore",
+        "condition": "non_follow_up_medical_treatment_within_time_limit",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "medical_expenses_in_singapore",
+        "condition": "excluded_treatments",
+        "condition_type": "benefit_exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "mobility_aid",
+        "condition": "necessary_mobility_aid_expense",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "TCM_expenses",
+        "condition": "necessary_TCM_expense",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "TCM_expenses",
+        "condition": "follow_up_TCM_treatment_within_time_limit",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "TCM_expenses",
+        "condition": "non_follow_up_TCM_treatment_within_time_limit",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "maternity_overseas_medical_expenses",
+        "condition": "necessary_maternity_overseas_medical_expense",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "maternity_overseas_medical_expenses",
+        "condition": "excluded_pregnancy_related_illness",
+        "condition_type": "benefit_exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "overseas_hospitalisation",
+        "condition": "hospitalisation_outside_singapore",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "overseas_ICU_hospitalisation",
+        "condition": "ICU_hospitalisation_outside_singapore",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "hospitalisation_in_singapore",
+        "condition": "hospitalisation_in_singapore",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "medical_travel_assistance",
+        "condition": "medical_travel_assistance_available_services",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "emergency_medical_evacuation_repatriation",
+        "condition": "medically_necessary_for_evacuation",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "emergency_medical_evacuation_repatriation",
+        "condition": "medical_evacuation_or_repatriation_approval",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "emergency_medical_evacuation_repatriation",
+        "condition": "expenses_for_services_by_another_party",
+        "condition_type": "benefit_exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "emergency_medical_evacuation_repatriation",
+        "condition": "non_approved_medical_assistance_services",
+        "condition_type": "benefit_exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "emergency_medical_evacuation_repatriation",
+        "condition": "treatment_by_non_medical_practitioner",
+        "condition_type": "benefit_exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "emergency_medical_evacuation_repatriation",
+        "condition": "reasonable_delay_of_treatment",
+        "condition_type": "benefit_exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "emergency_medical_evacuation_repatriation",
+        "condition": "against_travel_advisory",
+        "condition_type": "benefit_exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "emergency_medical_evacuation_repatriation",
+        "condition": "failed_pretrip_recommendation_medical_check",
+        "condition_type": "benefit_exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "mortal_remains_repatriation",
+        "condition": "death_due_to_injury_during_trip",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "mortal_remains_repatriation",
+        "condition": "mortal_remains_transportation",
+        "condition_type": "benefit_exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "mortal_remains_repatriation",
+        "condition": "expenses_for_services_by_another_party",
+        "condition_type": "benefit_exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "mortal_remains_repatriation",
+        "condition": "non_approved_medical_assistance_services",
+        "condition_type": "benefit_exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "mortal_remains_repatriation",
+        "condition": "religious_ceremony_or_rites_exclusion",
+        "condition_type": "benefit_exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "compassionate_visit",
+        "condition": "hospitalisation_outside_singapore_for_more_than_min_days",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "compassionate_visit",
+        "condition": "death_due_to_injury_during_trip",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "compassionate_visit",
+        "condition": "non_approved_services_exclusions",
+        "condition_type": "benefit_exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "emergency_telephone_charges",
+        "condition": "actual_telephone_charges_requirement",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "emergency_telephone_charges",
+        "condition": "telephone_lines_charges_exclusions",
+        "condition_type": "benefit_exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "travel_agency_insolvency",
+        "condition": "unrecoverable_travel_fares_or_deposits",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "travel_agency_insolvency",
+        "condition": "requirements_of_bankruptcy_or_insolvency",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "trip_cancellation",
+        "condition": "covered_cancellation_reasons",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "trip_cancellation",
+        "condition": "unavoidable_cancellation_of_trip",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "trip_cancellation",
+        "condition": "excluded_cancellation_reasons",
+        "condition_type": "benefit_exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "trip_cancellation",
+        "condition": "known_circumstances_cancellation",
+        "condition_type": "benefit_exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "trip_postponement",
+        "condition": "unavoidable_postponement_of_trip",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "trip_postponement",
+        "condition": "notification_to_service_provider",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "traveller_replacement",
+        "condition": "unavoidable_cancellation_of_trip",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "traveller_replacement",
+        "condition": "replacement_requirements",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "trip_curtailment",
+        "condition": "unavoidable_curtailment_of_trip",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "trip_curtailment",
+        "condition": "trip_curtailment_covered_reasons",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "trip_curtailment",
+        "condition": "known_circumstances_curtailment",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "travel_delay",
+        "condition": "minimum_delay_duration",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "travel_delay",
+        "condition": "failure_to_check_in_at_time_given",
+        "condition_type": "benefit_exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "travel_delay",
+        "condition": "covered_delay_reasons",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "travel_delay",
+        "condition": "excluded_delay_reasons",
+        "condition_type": "benefit_exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "trip_disruption",
+        "condition": "unavoidable_disruption_of_trip",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "trip_disruption",
+        "condition": "covered_disruption_reasons",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "flight_diversion",
+        "condition": "unavoidable_diversion_of_flight",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "flight_diversion",
+        "condition": "covered_diversion_reasons",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "flight_diversion",
+        "condition": "failure_to_check_in_at_time_given",
+        "condition_type": "benefit_exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "overbooked_flight",
+        "condition": "unavoidable_overbooking_of_flight",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "flight_diversion",
+        "condition": "failure_to_check_in_at_time_given",
+        "condition_type": "benefit_exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "travel_misconnection",
+        "condition": "unavoidable_misconnection_of_travel",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "travel_misconnection",
+        "condition": "covered_misconnection_reasons",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "travel_misconnection",
+        "condition": "written_proof_requirement",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "travel_misconnection",
+        "condition": "failure_to_check_in_at_time_given",
+        "condition_type": "benefit_exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "baggage_delay",
+        "condition": "minimum_delay_duration",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "baggage_delay",
+        "condition": "baggage_delayed_overseas",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "baggage_delay",
+        "condition": "written_proof_requirement",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "loss_damage_personal_belongings",
+        "condition": "police_report_requirement",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "loss_damage_personal_belongings",
+        "condition": "compensations_for_loss_and_damaged_belongings",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "loss_damage_personal_belongings",
+        "condition": "articles_not_left_unattended",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "loss_damage_personal_belongings",
+        "condition": "steps_of_recovery",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "loss_damage_personal_belongings",
+        "condition": "valuables_handling_requirements",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "loss_damage_personal_belongings",
+        "condition": "proof_of_purchase_requirement",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "loss_damage_personal_belongings",
+        "condition": "unexplained_belongings_loss",
+        "condition_type": "benefit_exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "loss_damage_personal_belongings",
+        "condition": "loss_refund_by_other_party",
+        "condition_type": "benefit_exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "loss_damage_personal_belongings",
+        "condition": "inherent_defects_of_belongings",
+        "condition_type": "benefit_exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "loss_damage_personal_belongings",
+        "condition": "rented_or_hired_belongings",
+        "condition_type": "benefit_exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "loss_damage_personal_belongings",
+        "condition": "excluded_classes_of_belongings",
+        "condition_type": "benefit_exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "loss_damage_wedding_clothing",
+        "condition": "loss_or_damage_during_journey",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "loss_of_travel_documents",
+        "condition": "loss_or_damage_during_journey",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "loss_of_travel_documents",
+        "condition": "additional_travel_expenses",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "loss_of_travel_documents",
+        "condition": "minimum_hospitalization_days",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "loss_of_travel_documents",
+        "condition": "police_report_requirement",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "personal_money",
+        "condition": "loss_during_journey",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "personal_money",
+        "condition": "police_report_requirement",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "fraudulent_use_of_credit_card",
+        "condition": "financial_loss_result",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "fraudulent_use_of_credit_card",
+        "condition": "credit_card_theft_reporting",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "fraudulent_use_of_credit_card",
+        "condition": "report_issued_by_credit_card_issuer",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "credit_card_outstanding_balance",
+        "condition": "death_due_to_injury_during_trip",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "personal_liability",
+        "condition": "death_of_other_person_due_to_injury_during_trip",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "personal_liability",
+        "condition": "loss_or_damage_of_other_person_property_during_trip",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "legal_expenses_for_wrongful_arrest",
+        "condition": "wrongful_arrest_during_journey_overseas",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "adventurous_activities",
+        "condition": "suffer_accidental_death_or_injury",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "personal_liability",
+        "condition": "activities_covered",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "golfer",
+        "condition": "loss_or_damage_of_golfing_equipment",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "golfer",
+        "condition": "proof_of_purchase_requirement",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "golfer",
+        "condition": "hole_in_one",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "unused_entertainment_ticket",
+        "condition": "reasons_of_unused_ticket",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "unused_entertainment_ticket",
+        "condition": "proof_or_denial_of_any_compensation",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "rental_vehicle_excess",
+        "condition": "accidental_loss_or_damage_to_rental_vehicle",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "rental_vehicle_excess",
+        "condition": "not_under_alcohol_influence",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "rental_vehicle_excess",
+        "condition": "driver_must_be_one_of_insured_persons",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "rental_vehicle_excess",
+        "condition": "loss_damage_exclusion",
+        "condition_type": "benefit_exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "rental_vehicle_excess",
+        "condition": "damage_to_tyres_and_rims",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "returning_rental_vehicle",
+        "condition": "unable_return_due_to_injury",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "home_contents",
+        "condition": "loss_or_damage_of_property_left_vacant",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "home_contents",
+        "condition": "item_beyond_economical_repair",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "domestic_pets_care",
+        "condition": "unable_to_return_to_singapore_due_to_injury",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "domestic_pets_care",
+        "condition": "medical_report_requirement",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "domestic_pets_care",
+        "condition": "written_proof_requirement",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "terrorism",
+        "condition": "loss_suffered_through_acts_of_terrorism",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "passive_war",
+        "condition": "death_or_loss_due_to_war_riot_revolution",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "hijacking",
+        "condition": "hijacked_public_transport",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "hijacking",
+        "condition": "destination_not_to_or_via_country_in_state_of_war",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "kidnap_and_hostage",
+        "condition": "wrongly_held_by_criminal_during_journey",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "kidnap_and_hostage",
+        "condition": "police_report_requirement",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "pre-ex_critical_care",
+        "condition": "following_doctor_advice_for_pre_existing_condition",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "pre-ex_critical_care",
+        "condition": "medical_condition_compliance",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "pre-ex_critical_care",
+        "condition": "pre_existing_condition_compliance",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "pre-ex_critical_care",
+        "condition": "worsening_of_pre_existing_condition_before_trip",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "pre-ex_critical_care",
+        "condition": "terminal_illness",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "pre-ex_critical_care",
+        "condition": "medical_expenses_in_singapore",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "travel_misconnection",
+        "condition": "written_proof_requirement",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "overseas_medical_expenses_covid_19",
+        "condition": "covid_19_detection_during_trip",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "overseas_medical_expenses_covid_19",
+        "condition": "expenses_incurrred_for_services_by_other_party",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "trip_cancellation_covid_19",
+        "condition": "covid_19_detection_during_trip",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "trip_cancellation_covid_19",
+        "condition": "quarantine_requirements",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "trip_cancellation_covid_19",
+        "condition": "covid_19_detection_during_trip",
+        "condition_type": "benefit_exclusion",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "trip_cancellation_covid_19",
+        "condition": "quarantine_requirements",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "overseas_hospitalisation_allowance_covid_19",
+        "condition": "hospitalisation_due_to_covid_19",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product B": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          },
+          "Product C": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      },
+      {
+        "benefit_name": "overseas_quarantine_allowance_covid_19",
+        "condition": "isolation_order_requirement",
+        "condition_type": "benefit_eligibility",
+        "parameters": [],
+        "products": {
+          "Product A": {
+            "condition_exist": "boolean",
+            "original_text": "",
+            "parameters": {}
+          }
+        }
+      }
+    ]
+  }
+}
