@@ -79,6 +79,8 @@ ancileo-msig/
 │   ├── Travel Insurance API Documentation.pdf  ← API endpoints & integration guide
 │   └── Scoot_SG_destination_list.xlsx         ← Destination data for quotes
 │
+├── Claims_Data_DB.pdf                ← Historical claims database for BONUS BLOCK
+│
 ├── Payments/                         ← FOR BLOCK 4 (Payments)
 │   ├── docker-compose.yaml           ← Local payment stack (DynamoDB + Stripe webhook)
 │   ├── webhook/                      ← Stripe webhook service
@@ -326,6 +328,14 @@ Finds: 80% of medical claims exceed $30,000
 Recommends: "Based on similar trips, we recommend the Silver plan 
              with $50,000 medical coverage (vs. Bronze at $20,000)"
 ```
+
+> **📊 IMPORTANT**: Before attempting the Bonus Block, carefully review the `Claims_Data_DB.pdf` file. This database contains real historical claims data provided by Ancileo and includes:
+> - **Claims patterns** by destination, activity, and demographics
+> - **Average claim amounts** for different scenarios
+> - **Risk factors** and correlation data
+> - **Seasonal trends** and coverage gaps
+> 
+> Understanding this data structure will be crucial for building intelligent recommendations that add real value to your solution.
 
 ---
 
