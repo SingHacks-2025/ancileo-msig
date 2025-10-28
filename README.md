@@ -360,7 +360,7 @@ python Payments/test_payment_flow.py
 
 **💡 Innovation Opportunity**: Transform historical data into predictive intelligence that revolutionizes insurance recommendations.
 
-**🚀 FREE DATA FOR INNOVATION**: We're providing you with **real historical claims data** from MSIG — completely free to use for experimentation! This is your chance to:
+**🚀 FREE DATA FOR INNOVATION**: We're providing you with **real historical claims data** and This is your chance to:
 
 - **Discover hidden patterns** in travel risks and claims
 - **Build predictive models** that anticipate user needs
