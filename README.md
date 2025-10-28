@@ -125,7 +125,6 @@ ancileo-msig/
 - **Beyond text extraction**: Could you use visual analysis to understand policy layouts?
 - **Dynamic normalization**: What if your system learns new terminology on the fly?
 - **Semantic understanding**: How might you capture the "spirit" of policies, not just the words?
-- **Real-time adaptation**: Could your system evolve as it encounters new policy formats?
 
 **Where to start**: `Taxonomy/Taxonomy_Hackathon.json`
 
@@ -255,9 +254,7 @@ The `Taxonomy_Hackathon.json` file shows you the **target structure**:
 
 **🚀 Your Innovation Space**:
 - **In-Chat Payments**: What if users never leave the conversation?
-- **Payment Intelligence**: Could your system suggest payment methods based on user behavior?
 - **Trust & Security**: How might you build confidence through transparency?
-- **Alternative Payment Methods**: What about crypto, BNPL, or other innovative options?
 - **Post-Purchase Experience**: How do you make policy delivery feel special?
 
 **The Challenge**: MCP servers don't handle callbacks natively, but we've provided a **creative workaround** (though you're free to innovate beyond this!).
