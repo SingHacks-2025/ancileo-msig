@@ -16,7 +16,7 @@
 
 > **API KEY**: To access the Ancileo × MSIG hackathon endpoints, use the event API key below.
 
- API KEY -> https://pwpush.com/p/y9hg-pkgeg-bzeik/r
+ API KEY -> https://pwpush.com/p/xkhz5dfldsy4d3nrrym/r
 
 ---
 
