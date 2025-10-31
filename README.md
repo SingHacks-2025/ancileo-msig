@@ -14,6 +14,10 @@
 
 > **📖 CONTEXT**: Read the **Next-Generation Conversational Travel Insurance Distribution Hackathon.pdf** for background, but don't let it limit your imagination. The best solutions often come from questioning assumptions and exploring uncharted territory.
 
+> **API KEY**: To access the Ancileo × MSIG hackathon endpoints, use the event API key below.
+
+ API KEY -> https://pwpush.com/p/y9hg-pkgeg-bzeik/r
+
 ---
 
 ## 📋 The Problem We're Solving
