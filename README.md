@@ -119,6 +119,9 @@ ancileo-msig/
 
 > **🚀 Remember**: These are **inspiration blocks**, not rigid requirements. Feel free to combine, modify, or completely reimagine any of these approaches!
 
+**💡 You are allowed to mock MCP to third party providers (example: Airlines Company)**
+
+
 ### 🧠 Block 1: Policy Intelligence — Your Approach to Understanding Documents
 
 **💡 Innovation Opportunity**: How will you make sense of complex insurance documents? 
@@ -294,7 +297,7 @@ Payments/
 └── README.md                    ← Detailed docs for the payment stack
 ```
 
-**EXTRA NOTES ON QUOTATION AND PURCHASE API USAGE**
+**⚠️ ATTENTION: QUOTATION AND PURCHASE API USAGE ⚠️**
 
 ***Quotation Step:***
 Use the API retrieve the offer, and as at the moment only one offer was output on the response, you are allowed to inject in the response a mock of offers for the other 2 policies processed in Block 1, then proceed with the comparison of policy to offer
