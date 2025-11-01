@@ -49,6 +49,8 @@ We've outlined **5 feature blocks** as inspiration, but remember: **these are st
 - **Rethink the conversation flow** from first principles
 - **Create delightful micro-interactions** that surprise and engage
 
+---> You are encouraged to take liberties & inititives, and if needed, to mock other service provider in order to enhances the capabilties of your agent(s)
+
 ### The Foundation Blocks (Use as Inspiration)
 
 ```
@@ -119,8 +121,10 @@ ancileo-msig/
 
 > **🚀 Remember**: These are **inspiration blocks**, not rigid requirements. Feel free to combine, modify, or completely reimagine any of these approaches!
 
+====================================================================================================================================
 **💡 You are allowed to mock MCP to third party providers (example: Airlines Company)**
-
+In order to crete the most SEAMLESS and FLEXIBLE agent(s), take liberties & inititives ! If needed, youa re encourage to mock other services provider in order to enhances the capabilties of your agent(s)
+====================================================================================================================================
 
 ### 🧠 Block 1: Policy Intelligence — Your Approach to Understanding Documents
 
