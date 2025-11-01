@@ -128,9 +128,9 @@ ancileo-msig/
 
 In order to create the most SEAMLESS and FLEXIBLE agent(s), take liberties & initiatives ! If needed, you are encourage to mock other services provider in order to enhances the capabilties of your agent(s)
 
-Example: Leveraging MCP's to connect with third party providers to retrieve user(s) information to make the whole process a personalized interaction with seamless integration aiming to
+Example: Leveraging MCPs to connect with third party providers to retrieve user(s) information to make the whole process a personalized interaction with seamless integration aiming to
 - Provides compact, digestible information of the user(s) and their travel
-- Adapts to user preferences and communication style
+- Adapts to user preferences
 
 -----------------
 
