@@ -260,6 +260,13 @@ The `Taxonomy_Hackathon.json` file shows you the **target structure**:
 - 📄 Itineraries (activities, destinations, timeline)
 - 🛂 Visa applications (trip purpose, duration)
 
+----------------------------------------------------
+**⚠️ ATTENTION: QUOTATION AND PURCHASE API USAGE ⚠️**
+
+***Quotation Step:***
+Use the API retrieve the offer, and as at the moment only one offer was output on the response, you are allowed to inject in the response a mock of offers for the other 2 policies processed in Block 1, then proceed with the comparison of policy to offer
+
+----------------------------------------------------
 
 ### 💳 Block 4: Seamless Commerce — How Do You Make Purchasing Feel Effortless?
 
@@ -305,6 +312,8 @@ Payments/
 └── README.md                    ← Detailed docs for the payment stack
 ```
 
+----------------------------------------------------
+
 **⚠️ ATTENTION: QUOTATION AND PURCHASE API USAGE ⚠️**
 
 ***Quotation Step:***
@@ -313,6 +322,8 @@ Use the API retrieve the offer, and as at the moment only one offer was output o
 ***Purchasing Step:***
 In the purchase part, use the main offer data provided on the previous Quotation response, no matter of the output of the Block  4 on the offered policies
 Objective of Block 4 is to make comparison out of the 3 products based on your personality and all information retrieved on user (leverage integration of your agents with various data sources)
+
+----------------------------------------------------
 
 **The Stack** (runs locally via Docker):
 
