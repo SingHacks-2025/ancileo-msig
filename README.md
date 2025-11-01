@@ -121,12 +121,14 @@ ancileo-msig/
 
 > **🚀 Remember**: These are **inspiration blocks**, not rigid requirements. Feel free to combine, modify, or completely reimagine any of these approaches!
 
-==========================================
+
+-----------------
 
 **💡 You are allowed to mock MCP to third party providers (example: Airlines Company)**
-In order to crete the most SEAMLESS and FLEXIBLE agent(s), take liberties & inititives ! If needed, youa re encourage to mock other services provider in order to enhances the capabilties of your agent(s)
-==========================================
 
+In order to crete the most SEAMLESS and FLEXIBLE agent(s), take liberties & inititives ! If needed, youa re encourage to mock other services provider in order to enhances the capabilties of your agent(s)
+
+-----------------
 
 ### 🧠 Block 1: Policy Intelligence — Your Approach to Understanding Documents
 
