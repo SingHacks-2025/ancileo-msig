@@ -268,7 +268,7 @@ The `Taxonomy_Hackathon.json` file shows you the **target structure**:
 **⚠️ ATTENTION: QUOTATION AND PURCHASE API USAGE ⚠️**
 
 ***Quotation Step:***
-Use the API retrieve the offer, and as at the moment only one offer was output on the response, you are allowed to inject in the response a mock of offers for the other 2 policies processed in Block 1, then proceed with the comparison of policy to offer
+Use the API retrieve the offer, and as at the moment only one offer was output on the response without plan indication, you are allowed to inject in the response a mock of offers for the other policies product and plans processed in Block 1, then proceed with the comparison of policy to offer
 
 ----------------------------------------------------
 
@@ -321,7 +321,7 @@ Payments/
 **⚠️ ATTENTION: QUOTATION AND PURCHASE API USAGE ⚠️**
 
 ***Quotation Step:***
-Use the API retrieve the offer, and as at the moment only one offer was output on the response, you are allowed to inject in the response a mock of offers for the other 2 policies processed in Block 1, then proceed with the comparison of policy to offer
+Use the API retrieve the offer, and as at the moment only one offer was output on the response without plan indication, you are allowed to inject in the response a mock of offers for the other policies product and plans processed in Block 1, then proceed with the comparison of policy to offer
 
 ***Purchasing Step:***
 In the purchase part, use the main offer data provided on the previous Quotation response, no matter of the output of the Block  4 on the offered policies
