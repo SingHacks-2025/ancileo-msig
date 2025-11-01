@@ -126,7 +126,7 @@ ancileo-msig/
 
 **💡 You are allowed to mock MCP to third party providers (example: Airlines Company)**
 
-In order to create the most **SEAMLESS** and **FLEXIBLE** agent(s), take liberties & initiatives ! If needed, you are encourage to mock other services provider in order to enhances the capabilties of your agent(s)
+In order to create the most **SEAMLESS** , **FLEXIBLE** and **Personalized** agent(s), take liberties & initiatives ! If needed, you are encourage to mock other services provider in order to enhances the capabilties of your agent(s)
 
 Example: Leveraging MCPs to connect with third party providers to retrieve user(s) information to make the whole process a personalized interaction with seamless integration aiming to
 - Provides compact, digestible information of the user(s) and their travel
